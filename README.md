@@ -6,6 +6,7 @@
 * Java (To experience object oriented programing and learn data structures and algorithms)
 * C++ (To participate in competitive programming programs)
 * C (To learn and experience low level programing languages)
+* Assembly (To understand C was actually a pretty high level language)
 
 <!---
 yusufakdogan0/yusufakdogan0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
