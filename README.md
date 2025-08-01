@@ -4,7 +4,7 @@
 - 📫 How to reach me a.akdogan101@gmail.com
 ## Coding languages and what did I use them for:
 * Python (To start programming and implement basic algorithms also backend development in django)
-* Java (To experience object oriented programing and learn data structures and algorithms)
+* Java (To experience object oriented programing and learn data structures and algorithms + backend development in spring)
 * C++ (To participate in competitive programming programs)
 * C (To learn and experience low level programing languages)
 * Assembly (To understand that C was actually a pretty high level language 😞)
