@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @yusufakdogan0
 - 🌱 I’m currently studying at a computer enginering major at Bogazici University
-- My current focus is backend engineering
 - 📫 How to reach me a.akdogan101@gmail.com
 ## Coding languages and what did I use them for:
 * Python (To start programming and implement basic algorithms also backend development in django)
@@ -8,7 +7,8 @@
 * C++ (To experience in competitive programming programs and writing native code)
 * C (To learn and experience low level programing languages)
 * Assembly (To understand that C was actually a pretty high level language 😞)
-* Go (For a small backend project)
+* Go (For some small backend projects)
+* React 
 
 <!---
 yusufakdogan0/yusufakdogan0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
